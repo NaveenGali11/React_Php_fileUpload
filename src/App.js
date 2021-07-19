@@ -1,5 +1,5 @@
 import './App.css';
-import Test from "./frontend/Test";
+import FileUploadForm from "./frontend/FileUploadForm";
 // import FileUploadForm from "./frontend/FileUploadForm";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
         {/*<FileUploadForm />*/}
 
-        <Test />
+        <FileUploadForm />
     </div>
   );
 }
